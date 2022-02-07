@@ -2,7 +2,7 @@
 require 'PHPMailerAutoload.php';
 $mail = new PHPMailer(true);
 $emailid= "educatorsindia2022@gmail.com";
-$pass="educator@2021";
+$pass="";
 
 	
 	$otp=mt_rand(10000,99999);
